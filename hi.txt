@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-1111
-<<<<<<< HEAD
-2222
-=======
-commit 100
-commit 200
->>>>>>> parent of aa40df9 (commit 300)
-=======
->>>>>>> parent of 1935de7 (commit 2222)
+commit 1000
