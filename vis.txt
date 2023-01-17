@@ -1,2 +1,0 @@
-new_commit 1
-new_comit 2
