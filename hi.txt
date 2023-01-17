@@ -1,7 +1,0 @@
-commit 100
-<<<<<<< HEAD
-commit 300
-commit 500
-=======
-commit 200
->>>>>>> parent of aa40df9 (commit 300)
